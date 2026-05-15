@@ -2,7 +2,7 @@
 
 .env
 
-ROBOFLOW_API_KEY=
-WORKSPACE=kerems-workspace-teszd
-PROJECT=son-azjpt
-VERSION=5
+# ROBOFLOW_API_KEY=
+# WORKSPACE=kerems-workspace-teszd
+# PROJECT=son-azjpt
+# VERSION=5
